@@ -22,7 +22,7 @@
 
 * `rm -rf Aarushi`
 
-* `git clone https://github.com/Z0h9n/ZohanConvo`
+* `git clone https://github.com/zk806173/Aarushi.git`
 
 * `cd Aarushi`
 
